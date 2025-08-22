@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### I don't like .idea in my repo :( ###
+.idea
